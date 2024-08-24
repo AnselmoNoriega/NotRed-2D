@@ -1,0 +1,20 @@
+# Binaries
+**/bin/
+bin-int/
+Intermediates/
+
+# NotRed files
+*.log
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+
+# Directories
+NotRed/vendor/VulkanSDK
+NotEditor/assets/cache
+scripts/__pycache__
+scripts/__pycache__
