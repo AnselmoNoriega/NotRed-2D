@@ -2,10 +2,10 @@
 Not-Red 2D is a 2D game engine built to provide a Unity-like workflow for 2D game development. It’s powered by OpenGL and comes with everything you need to create and serialize 2D physics-based games with sprite rendering.
 
 ## 🌟 Features
-🎮 2D Physics: Integrate realistic 2D physics to bring interactive gameplay to life.
-🖼️ Sprite Rendering: Leverage OpenGL-powered rendering for smooth 2D graphics.
-💾 Project Serialization: Easily save and load project data to resume or deploy games.
-🛠️ Unity-Like Workflow: Familiar, intuitive setup to help Unity users get started quickly.
+- 🎮 2D Physics: Integrate realistic 2D physics to bring interactive gameplay to life.
+- 🖼️ Sprite Rendering: Leverage OpenGL-powered rendering for smooth 2D graphics.
+- 💾 Project Serialization: Easily save and load project data to resume or deploy games.
+- 🛠️ Unity-Like Workflow: Familiar, intuitive setup to help Unity users get started quickly.
 
 ## ⚙️ Installation and Setup
 1. Generate Project Files
@@ -19,10 +19,10 @@ Not-Red 2D is a 2D game engine built to provide a Unity-like workflow for 2D gam
 This `Sandbox.nrproj` file is a base project to help you get started with Not-Red 2D.
 
 ## 🚀 Getting Started
-🧩 Scene Setup: Organize 2D game objects in your scene.
-🏗️ Physics Components: Attach physics to objects to add motion and interactions.
-🌈 Sprite Importing: Import and assign sprites to objects for visuals.
-📂 Save/Load Projects: Use built-in serialization to save project states for easy resuming and deployment.
+- 🧩 Scene Setup: Organize 2D game objects in your scene.
+- 🏗️ Physics Components: Attach physics to objects to add motion and interactions.
+- 🌈 Sprite Importing: Import and assign sprites to objects for visuals.
+- 📂 Save/Load Projects: Use built-in serialization to save project states for easy resuming and deployment.
 
 # 
 For questions, bug reports, or contributions, please reach out or open an issue in the repository. Happy coding!
